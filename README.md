@@ -12,10 +12,12 @@ Analisar os cursos de Análise e Desenvolvimento de Sistemas cadastrados no MEC,
 - Intervalos de células
 - Organização visual e formatação
 - Tabelas e design no Excel
+- -Formatação condicional
 
 ## 📁 Arquivo
-- [`planilha-mec.xlsx`](./planilha-mec.x[projeto.xlsx](https://github.com/user-attachments/files/19624159/projeto.xlsx)
-lsx)
+-[Projeto de Excel.xlsx](https://github.com/user-attachments/files/21152050/projeto_basico.xlsx)
+
+
 
 ## 📌 Observações
 
@@ -23,5 +25,5 @@ Este é o primeiro projeto do meu portfólio. Conforme avanço nos estudos, novo
 
 ---
 
-👨‍🏫 Veja mais sobre minha transição de carreira e meus aprendizados no meu [Portfólio Online](https://victordados.my.canva.site)
+👨‍🏫 Veja mais sobre minha transição de carreira e meus aprendizados no meu [Portfólio Online](https://sites.google.com/view/victor-tchiya/p%C3%A1gina-inicial?authuser=0)
 
