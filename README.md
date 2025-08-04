@@ -1,4 +1,4 @@
-# 📊 Projeto Excel Básico – Análise de Cursos do MEC
+# 📊 Projeto Excel Básico 
 
 Este projeto está em desenvolvimento como parte do curso "Excel para Análise de Dados – do Básico ao Avançado", ministrado por Paulo Fróes.
 
